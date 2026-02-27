@@ -20,7 +20,7 @@
 
 ## 🚀 在线访问
 
-访问地址：[https://zhangchu05.github.io/cola-free-tracker/](https://zhangchu05.github.io/cola-free-tracker/)
+访问地址：[https://chuchu123000.github.io/cola-free-tracker/](https://chuchu123000.github.io/cola-free-tracker/)
 
 ## 💪 使用方法
 
@@ -51,7 +51,7 @@ cola-free-tracker/
 
 ```bash
 # 克隆仓库
-git clone https://github.com/zhangchu05/cola-free-tracker.git
+git clone https://github.com/chuchu123000/cola-free-tracker.git
 
 # 进入目录
 cd cola-free-tracker
